@@ -1,0 +1,19 @@
+#title {
+    color: white;
+    background-color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+#imagen {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.title1 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.listas {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
